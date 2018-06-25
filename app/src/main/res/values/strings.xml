@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Planner_App</string>
+    <string name="app_logo">Logo</string>
+    <string name="email_hint">Email...</string>
 </resources>
